@@ -1,3 +1,5 @@
 # favorite food
 
-the favorite food 2
+<<<<<<< HEAD
+the favorite food
+>>>>>>> main
